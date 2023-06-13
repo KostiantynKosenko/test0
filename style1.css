@@ -1,0 +1,31 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@600&display=swap');
+
+header{
+    font-family: 'Inter', sans-serif;
+}
+
+body{
+    padding-bottom: 20px;
+    font-family: 'Inter', sans-serif;
+    font-size: 20px;
+}
+
+img{
+    width: 840px;
+    height: 500px;
+}
+#piskova{
+    background-color: #DFC168;
+}
+#plava{
+    background-color: #A66B37;
+}
+.col-8{
+    padding-top: 10px;
+}
+.col-4{
+    padding-top: 10px;
+}
+.col-9{
+    padding-top: 5px;
+}
